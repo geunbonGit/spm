@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//import myNewProjectTests
 @main
 struct myNewProjectApp: App {
     var body: some Scene {
