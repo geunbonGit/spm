@@ -6,13 +6,12 @@
 //
 
 import SwiftUI
-import Alamofire
 import Lottie
 import UIKit
-import Toast
-
-import Shiny
-import SkeletonUI
+//import Toast
+//
+//import Shiny
+//import SkeletonUI
 
 
 struct LottieView: UIViewRepresentable {
